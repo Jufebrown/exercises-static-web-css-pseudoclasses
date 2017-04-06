@@ -1,14 +1,17 @@
+/* list item styling */
 li {
 	text-decoration: none;
 	display: inline;
 }
 
+/* span styling */
 span {
 	display: block;
 	border: 1px solid black;
 	margin: 25px;
 }
 
+/* adds 1 pixel solid border */
 .n-child section:nth-of-type(even) {
 	border: 1px solid black;
 }
